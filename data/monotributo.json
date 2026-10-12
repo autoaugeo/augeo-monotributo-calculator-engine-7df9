@@ -1,0 +1,232 @@
+{
+  "vigente_desde": "2026-08-01",
+  "vigente_desde_texto_oficial": "Valores de aplicación desde el 1/08/2026",
+  "fuente_url": "https://www.arca.gob.ar/monotributo/categorias.asp",
+  "fuente_titulo": "Montos y categorías vigentes - Categorías - Monotributo | ARCA",
+  "fuente_espejo_url": "https://www.afip.gob.ar/monotributo/categorias.asp",
+  "leido_el": "2026-10-05",
+  "moneda": "ARS",
+  "unidades": {
+    "ingresos_brutos_anuales_max": "pesos por año",
+    "superficie_afectada_max_m2": "m2 (publicado como 'Hasta N m2')",
+    "energia_electrica_anual_max_kw": "publicado como 'Hasta N Kw' consumidos anualmente",
+    "alquileres_anuales_max": "pesos por año",
+    "precio_unitario_max_venta_cosas_muebles": "pesos",
+    "impuesto_integrado": "pesos por mes",
+    "aporte_sipa": "pesos por mes",
+    "aporte_obra_social": "pesos por mes",
+    "total_mensual": "pesos por mes"
+  },
+  "categorias": [
+    {
+      "categoria": "A",
+      "ingresos_brutos_anuales_max": 12009410.45,
+      "superficie_afectada_max_m2": 30,
+      "energia_electrica_anual_max_kw": 3330,
+      "alquileres_anuales_max": 2792886.15,
+      "precio_unitario_max_venta_cosas_muebles": 716840.77,
+      "impuesto_integrado_servicios": 5585.77,
+      "impuesto_integrado_venta": 5585.77,
+      "aporte_sipa": 18246.86,
+      "aporte_obra_social": 25694.55,
+      "total_mensual_servicios": 49527.18,
+      "total_mensual_venta": 49527.18
+    },
+    {
+      "categoria": "B",
+      "ingresos_brutos_anuales_max": 17595182.74,
+      "superficie_afectada_max_m2": 45,
+      "energia_electrica_anual_max_kw": 5000,
+      "alquileres_anuales_max": 2792886.15,
+      "precio_unitario_max_venta_cosas_muebles": 716840.77,
+      "impuesto_integrado_servicios": 10612.98,
+      "impuesto_integrado_venta": 10612.98,
+      "aporte_sipa": 20071.55,
+      "aporte_obra_social": 25694.55,
+      "total_mensual_servicios": 56379.08,
+      "total_mensual_venta": 56379.08
+    },
+    {
+      "categoria": "C",
+      "ingresos_brutos_anuales_max": 24670494.31,
+      "superficie_afectada_max_m2": 60,
+      "energia_electrica_anual_max_kw": 6700,
+      "alquileres_anuales_max": 3816944.41,
+      "precio_unitario_max_venta_cosas_muebles": 716840.77,
+      "impuesto_integrado_servicios": 18246.86,
+      "impuesto_integrado_venta": 16757.32,
+      "aporte_sipa": 22078.71,
+      "aporte_obra_social": 25694.55,
+      "total_mensual_servicios": 66020.12,
+      "total_mensual_venta": 64530.58
+    },
+    {
+      "categoria": "D",
+      "ingresos_brutos_anuales_max": 30628651.43,
+      "superficie_afectada_max_m2": 85,
+      "energia_electrica_anual_max_kw": 10000,
+      "alquileres_anuales_max": 3816944.41,
+      "precio_unitario_max_venta_cosas_muebles": 716840.77,
+      "impuesto_integrado_servicios": 29790.79,
+      "impuesto_integrado_venta": 27742.67,
+      "aporte_sipa": 24286.58,
+      "aporte_obra_social": 30535.56,
+      "total_mensual_servicios": 84612.93,
+      "total_mensual_venta": 82564.81
+    },
+    {
+      "categoria": "E",
+      "ingresos_brutos_anuales_max": 36028231.33,
+      "superficie_afectada_max_m2": 110,
+      "energia_electrica_anual_max_kw": 13000,
+      "alquileres_anuales_max": 4841002.66,
+      "precio_unitario_max_venta_cosas_muebles": 716840.77,
+      "impuesto_integrado_servicios": 55857.73,
+      "impuesto_integrado_venta": 44313.79,
+      "aporte_sipa": 26715.24,
+      "aporte_obra_social": 37238.48,
+      "total_mensual_servicios": 119811.45,
+      "total_mensual_venta": 108267.51
+    },
+    {
+      "categoria": "F",
+      "ingresos_brutos_anuales_max": 45151659.41,
+      "superficie_afectada_max_m2": 150,
+      "energia_electrica_anual_max_kw": 16500,
+      "alquileres_anuales_max": 4841002.66,
+      "precio_unitario_max_venta_cosas_muebles": 716840.77,
+      "impuesto_integrado_servicios": 78573.20,
+      "impuesto_integrado_venta": 57719.64,
+      "aporte_sipa": 29386.76,
+      "aporte_obra_social": 42824.25,
+      "total_mensual_servicios": 150784.21,
+      "total_mensual_venta": 129930.65
+    },
+    {
+      "categoria": "G",
+      "ingresos_brutos_anuales_max": 53995798.87,
+      "superficie_afectada_max_m2": 200,
+      "energia_electrica_anual_max_kw": 20000,
+      "alquileres_anuales_max": 5771964.69,
+      "precio_unitario_max_venta_cosas_muebles": 716840.77,
+      "impuesto_integrado_servicios": 142995.76,
+      "impuesto_integrado_venta": 71497.87,
+      "aporte_sipa": 41141.46,
+      "aporte_obra_social": 46175.72,
+      "total_mensual_servicios": 230312.94,
+      "total_mensual_venta": 158815.05
+    },
+    {
+      "categoria": "H",
+      "ingresos_brutos_anuales_max": 81924660.37,
+      "superficie_afectada_max_m2": 200,
+      "energia_electrica_anual_max_kw": 20000,
+      "alquileres_anuales_max": 8378658.45,
+      "precio_unitario_max_venta_cosas_muebles": 716840.77,
+      "impuesto_integrado_servicios": 409623.31,
+      "impuesto_integrado_venta": 204811.64,
+      "aporte_sipa": 57598.04,
+      "aporte_obra_social": 55485.33,
+      "total_mensual_servicios": 522706.68,
+      "total_mensual_venta": 317895.01
+    },
+    {
+      "categoria": "I",
+      "ingresos_brutos_anuales_max": 91699761.90,
+      "superficie_afectada_max_m2": 200,
+      "energia_electrica_anual_max_kw": 20000,
+      "alquileres_anuales_max": 8378658.45,
+      "precio_unitario_max_venta_cosas_muebles": 716840.77,
+      "impuesto_integrado_servicios": 814591.79,
+      "impuesto_integrado_venta": 325836.71,
+      "aporte_sipa": 80637.26,
+      "aporte_obra_social": 68518.81,
+      "total_mensual_servicios": 963747.86,
+      "total_mensual_venta": 474992.78
+    },
+    {
+      "categoria": "J",
+      "ingresos_brutos_anuales_max": 105012519.20,
+      "superficie_afectada_max_m2": 200,
+      "energia_electrica_anual_max_kw": 20000,
+      "alquileres_anuales_max": 8378658.45,
+      "precio_unitario_max_venta_cosas_muebles": 716840.77,
+      "impuesto_integrado_servicios": 977510.14,
+      "impuesto_integrado_venta": 391004.07,
+      "aporte_sipa": 112892.16,
+      "aporte_obra_social": 76897.46,
+      "total_mensual_servicios": 1167299.76,
+      "total_mensual_venta": 580793.69
+    },
+    {
+      "categoria": "K",
+      "ingresos_brutos_anuales_max": 126610838.75,
+      "superficie_afectada_max_m2": 200,
+      "energia_electrica_anual_max_kw": 20000,
+      "alquileres_anuales_max": 8378658.45,
+      "precio_unitario_max_venta_cosas_muebles": 716840.77,
+      "impuesto_integrado_servicios": 1368514.20,
+      "impuesto_integrado_venta": 456171.40,
+      "aporte_sipa": 158049.02,
+      "aporte_obra_social": 87882.82,
+      "total_mensual_servicios": 1614446.04,
+      "total_mensual_venta": 702103.24
+    }
+  ],
+  "notas_oficiales": {
+    "impuesto_integrado": "No ingresarán el impuesto integrado: Los trabajadores independientes promovidos. Los asociados a cooperativas cuando sus ingresos brutos no superen la suma máxima establecida para la categoría A. Los sujetos que adhieran, exclusivamente en su condición de locadores de bienes inmuebles -cualquiera sea su destino-, siempre que la cantidad de inmuebles que mantengan en locación -incluyendo los que integren condominios por los que se haya adherido en forma individual- no exceda de 2. Los inscriptos en el Registro Nacional de Efectores cuando sus ingresos brutos no superen la suma máxima establecida para la categoría A. Quienes desarrollen exclusivamente actividades primarias siendo su actividad principal el cultivo de tabaco, caña de azúcar, yerba mate o té; y sus ingresos brutos no superen la suma máxima establecida para la categoría D.",
+    "superficie_afectada": "Este parámetro no deberá considerarse en ciudades de menos de 40.000 habitantes (excepto algunas excepciones).",
+    "aportes_sipa": "Quedan exceptuados de ingresar cotizaciones al régimen de la seguridad social y a obras sociales, los siguientes sujetos: Quienes se encuentran obligados por otros regímenes previsionales. Los menores de 18 años. Los contribuyentes que adhirieron al monotributo por locación de bienes muebles y/o inmuebles. Las sucesiones indivisas continuadoras de los sujetos adheridos al régimen que opten por la permanencia en el mismo. Quienes se jubilaron por leyes anteriores al 07/1994 (Nº 18.037 y Nº 18.038), es decir jubilados hasta el 06/1994. Los jubilados (por leyes anteriores o ley actual) quedan exceptuados de ingresar aportes a la obra social.",
+    "aportes_obra_social": "Afiliación individual a obra social, sin adherentes. Por cada adherente, además, deberá ingresarse ese mismo importe."
+  },
+  "tabla_anterior": {
+    "periodo": "Febrero a julio 2026",
+    "fuente_url": "https://www.arca.gob.ar/monotributo/montos-y-categorias-anteriores.asp",
+    "nota": "ARCA lista esa tabla como anterior; confirma que la vigente es la que rige desde agosto de 2026. Sus importes no se leyeron (están en un PDF)."
+  },
+  "recategorizacion": {
+    "fuente_url": "https://www.arca.gob.ar/monotributo/ayuda/recategorizacion.asp",
+    "leido_el": "2026-10-05",
+    "meses": ["febrero", "agosto"],
+    "dia_limite": 5,
+    "plazo_texto_oficial": "hasta el día 5 de febrero o de agosto, según corresponda",
+    "periodo_a_evaluar": "los últimos 12 meses de actividad",
+    "parametros_evaluados": [
+      "Ingresos",
+      "Alquileres",
+      "Superficie afectada a la actividad",
+      "Energía eléctrica consumida"
+    ],
+    "no_deben_recategorizarse": [
+      "Quienes mantienen la misma categoría",
+      "Quienes tienen menos de 6 meses de actividad"
+    ],
+    "vigencia_de_la_nueva_categoria": [
+      {
+        "semestre": "enero-junio",
+        "rige_desde_periodo_devengado": "agosto",
+        "rige_hasta_periodo_devengado": "enero"
+      },
+      {
+        "semestre": "julio-diciembre",
+        "rige_desde_periodo_devengado": "febrero",
+        "rige_hasta_periodo_devengado": "julio"
+      }
+    ],
+    "recategorizacion_de_oficio": "La recategorización de oficio es el proceso que aplica ARCA cuando un contribuyente del Monotributo no se recategoriza o lo hace de manera incorrecta",
+    "fechas_calendario_publicadas": null,
+    "nota": "La página publica la regla (febrero y agosto, hasta el día 5) y no fechas de calendario para 2026 o 2027. No se registra ninguna prórroga porque no se leyó ninguna en la fuente oficial."
+  },
+  "vencimientos": {
+    "fuente_url": "https://www.arca.gob.ar/monotributo/ayuda/pagos.asp",
+    "leido_el": "2026-10-05",
+    "pago_mensual_dia": 20,
+    "pago_mensual_texto_oficial": "El monotributo se paga hasta el día 20 de cada mes. En los casos en que caiga feriado o fin de semana, el vencimiento se correrá al primer día hábil siguiente.",
+    "primer_pago": {
+      "fuente_url": "https://www.arca.gob.ar/monotributo/ayuda/desarrollo-de-la-actividad.asp",
+      "texto_oficial": "el plazo vence el último día de ese mismo mes. Los siguientes pagos mensuales deben ingresarse hasta el día 20 de cada mes"
+    },
+    "medios_de_pago": "Los monotributistas de todas las categorías deben utilizar exclusivamente medios electrónicos para el pago de sus obligaciones."
+  },
+  "aviso": "Datos informativos copiados de páginas oficiales de ARCA en la fecha indicada en leido_el. No es asesoramiento impositivo ni contable. Los valores se actualizan por semestre: verificar en ARCA o con un contador público matriculado. Herramienta independiente, sin relación con ARCA/AFIP."
+}
